@@ -20,7 +20,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("LOGO3.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -28,9 +28,9 @@ body {
 }
 
 .container {
-    height: 100vh;
+    height: 85vh;
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 52% 50%;
 }
 
 .container__botao {
